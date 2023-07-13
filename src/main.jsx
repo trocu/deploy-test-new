@@ -14,7 +14,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
         loading={null}
         persistor={persistor}
       >
-        <BrowserRouter basename='/goit-react-hw-08-phonebook'>
+        <BrowserRouter basename='/deploy-test-new/'>
           <ChakraProvider>
             <App />
           </ChakraProvider>
